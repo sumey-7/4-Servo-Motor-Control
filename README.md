@@ -1,4 +1,5 @@
-# 🤖 4-Servo Motor Synchronous Control System
+# 4-Servo Motor Synchronous Control System
+
 ---
 ## 📌 Project Overview
 
@@ -14,12 +15,6 @@ You can interact with and run the design directly in your browser without any ha
 
 ### 🖼️ Physical Layout & Simulation Schematic
 ![System Circuit Design](/src/4_servo.png)
-<img src="4_servo.png" width="300"/>
-cv2.imwrite("result.png", frame, [cv2.IMWRITE_PNG_COMPRESSION, 7])
-
-<p align="center">
-  <img src="4-servo.png" width="25%" alt="Top View - Saudi Arabia Keychain" style="margin-right: 10px;" />
-</p>
 
 ---
 
