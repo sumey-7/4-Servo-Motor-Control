@@ -13,7 +13,7 @@ You can interact with and run the design directly in your browser without any ha
 ---
 
 ### 🖼️ Physical Layout & Simulation Schematic
-![System Circuit Design](../src/4-servo.png)
+![System Circuit Design](/src/4_servo.png)
 
 ---
 
